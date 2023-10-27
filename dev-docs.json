@@ -1,7 +1,6 @@
 {
   "tutorial": true,
   "tutorialOrder": {
-    "javascript/your_tutorial_folder_name": ["filenameone.js", "filenametwo.js"],
-    "python/your_tutorial_folder_name": ["filenameone.py", "filenametwo.py"]
+    "javascript/your_tutorial_folder_name": ["ltsquickstart.js", "chatengine.js", "summaryindex.js"]
   }
 }
