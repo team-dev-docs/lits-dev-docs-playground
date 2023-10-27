@@ -5,6 +5,8 @@ import {
     SummaryRetrieverMode,
     serviceContextFromDefaults,
   } from "llamaindex";
+
+  import fs from "fs/promises";
   const essay = await fs.readFile(
     "../text/essay.txt",
     "utf-8",
@@ -30,6 +32,6 @@ import {
     console.log(response.toString());
   }
   
-  main().catch((e: Error) => {
+  main().catch((e) => {
     console.error(e, e.stack);
   });
