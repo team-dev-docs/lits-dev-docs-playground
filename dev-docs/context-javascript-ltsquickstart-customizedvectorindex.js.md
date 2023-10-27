@@ -12,7 +12,11 @@ echo $OPENAI_API_KEY
 
 ```
 
-if not exported again mentioned in prior page for <code>ltsquickstart.js</code>
+If you do not see export it again like so:
+
+```
+export OPENAI_API_KEY=YOUR KEY
+```
 
 
 If all those steps are good run(Note this can take a minute or two)

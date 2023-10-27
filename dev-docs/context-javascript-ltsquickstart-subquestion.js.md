@@ -1,6 +1,6 @@
-# Now try the Chat Engine
+# SubQuestionQueryEngine
 
-With the Chat engine example you automatically get a cli you can run! So cool!
+This code tutorial uses the `SubQuestionQueryEngine``, which breaks complex queries into multiple questions, and then aggreates a response across the answers to all sub-questions.
 
 Make sure you are still in the <code>javascript/ltsquickstart</code>
 
@@ -24,6 +24,6 @@ If all those steps are good run
 
 ```devdocs_run
 
-node chatengine.js
+node subquestion.js
 
 ```
