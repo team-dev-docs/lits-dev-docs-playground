@@ -1,6 +1,6 @@
 {
   "tutorial": true,
   "tutorialOrder": {
-    "javascript/ltsquickstart": ["ltsquickstart.js", "chatengine.js", "summaryindex.js", "storagecontext.js", "customizedvectorindex.js", "openaillm.js", "subquestion.js", "lowlevel.js"]
+    "javascript/ltsquickstart": ["ltsquickstart.js", "chatengine.js", "summaryindex.js", "storagecontext.js", "customizedvectorindex.js", "openaillm.js", "subquestion.js", "lowlevelmodules.js"]
   }
 }

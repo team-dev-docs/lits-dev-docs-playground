@@ -1,6 +1,5 @@
 import {
     Document,
-    NodeWithScore,
     ResponseSynthesizer,
     SimpleNodeParser,
     TextNode,
