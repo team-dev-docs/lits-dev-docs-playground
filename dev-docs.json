@@ -1,6 +1,6 @@
 {
   "tutorial": true,
   "tutorialOrder": {
-    "javascript/your_tutorial_folder_name": ["ltsquickstart.js", "chatengine.js", "summaryindex.js"]
+    "javascript/ltsquickstart": ["ltsquickstart.js", "chatengine.js", "summaryindex.js"]
   }
 }
