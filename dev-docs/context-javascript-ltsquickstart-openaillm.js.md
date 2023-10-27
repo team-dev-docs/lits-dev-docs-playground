@@ -1,6 +1,6 @@
-# Custom Vector Index Quickstart
+# Create your OpenAI LLM
 
-This code tutorial creates a vector index and queries it, while also configuring the the LLM, the ServiceContext, and the similarity_top_k.
+This tutorial helps you create an OpenAI LLM and directly use it for chat.
 
 Make sure you are still in the <code>javascript/ltsquickstart</code>
 
@@ -15,11 +15,11 @@ echo $OPENAI_API_KEY
 if not exported again mentioned in prior page for <code>ltsquickstart.js</code>
 
 
-If all those steps are good run(Note this can take a minute or two)
+If all those steps are good run below (Note this can take a minute or two)
 
 
 ```devdocs_run
 
-node customizedvectorindex.js
+node openaillm.js
 
 ```
