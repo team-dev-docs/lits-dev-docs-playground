@@ -1,6 +1,6 @@
 # Now try the Chat Engine
 
-With the Chat engine example you automatically get a cli you can run! So cool!
+With the Summary Index example we can summarize!
 
 Make sure you are still in the <code>javascript/ltsquickstart</code>
 
@@ -20,6 +20,6 @@ If all those steps are good run
 
 ```devdocs_run
 
-node chatengine.js
+node summaryindex.js
 
 ```
