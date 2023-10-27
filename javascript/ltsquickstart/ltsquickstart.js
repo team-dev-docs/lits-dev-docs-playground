@@ -4,7 +4,7 @@ import { Document, VectorStoreIndex } from "llamaindex";
 async function main() {
   // Load essay from abramov.txt in Node
   const essay = await fs.readFile(
-    "node_modules/llamaindex/examples/abramov.txt",
+    "text/essay.txt",
     "utf-8",
   );
 
