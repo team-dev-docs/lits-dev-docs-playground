@@ -1,6 +1,6 @@
 # Custom Vector Index Quickstart
 
-This code tutorial creates a vector index and queries it, while also configuring the the LLM, the ServiceContext, and the similarity_top_k.
+This code tutorial creates a vector index and queries it. The vector index will use embeddings to fetch the top k most relevant nodes. By default, the top k is 2.
 
 Make sure you are still in the <code>javascript/ltsquickstart</code>
 

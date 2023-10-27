@@ -1,7 +1,10 @@
 
 # This is the Quickstart
 
-cd into the first sample directory:
+This is the first code tutorial of 8.  This code tutorial will allow you to create a vector index and query it. The vector index will use embeddings to fetch the top k most relevant nodes. By default, the top k is 2.
+
+
+To get started cd into the first sample directory:
 
 `
 ```devdocs_run

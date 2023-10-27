@@ -1,6 +1,6 @@
-# Storage Quickstart 
+# Save and Load and Index
 
-This code tutorial creates a list index and query it. This example also use the LLMRetriever, which will use the LLM to select the best nodes to use when generating answer.
+This code tutorial creates a list index and queries it. This example also use the LLMRetriever, which will use the LLM to select the best nodes to use when generating answer.
 
 Make sure you are still in the <code>javascript/ltsquickstart</code>
 
@@ -27,5 +27,5 @@ If all those steps are good run(Note this can take a minute or two)
 node storagecontext.js
 ```
 
-If it is your first time running this project you should see a new mini folder called storage.
+If it is your first time running this project you should see a new mini folder called storage in the tutorial folder.
 

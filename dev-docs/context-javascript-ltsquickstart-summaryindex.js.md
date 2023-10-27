@@ -1,6 +1,6 @@
-# Now try the Chat Engine
+# Chat Engine
 
-With the Summary Index example we can summarize!
+This code tutorial creates a list index and queries it. This example also use the LLMRetriever, which will use the LLM to select the best nodes to use when generating answer.
 
 Make sure you are still in the <code>javascript/ltsquickstart</code>
 

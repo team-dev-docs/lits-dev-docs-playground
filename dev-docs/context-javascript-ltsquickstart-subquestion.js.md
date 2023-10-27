@@ -1,6 +1,6 @@
 # SubQuestionQueryEngine
 
-This code tutorial uses the `SubQuestionQueryEngine``, which breaks complex queries into multiple questions, and then aggreates a response across the answers to all sub-questions.
+This code tutorial uses the `SubQuestionQueryEngine`, which breaks complex queries into multiple questions, and then aggreates a response across the answers to all sub-questions.
 
 Make sure you are still in the <code>javascript/ltsquickstart</code>
 
