@@ -11,5 +11,9 @@
         "javascript/ltsquickstart/ltsquickstart.js"
       ]
     }
+  },
+   "containerEnv": {
+    "TUTORIAL": "javascript/ltsquickstart",
+    "TUTORIAL_FILE": "javascript/ltsquickstart/ltsquickstart.js"
   }
 }
